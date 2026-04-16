@@ -11,7 +11,7 @@
 
 ### 🎯 What I do
 
-I build **offensive/defensive security tools** and I'm into **AI-driven automations**.
+Deep into **AI-driven automations**, **offensive/defensive security tools** and in my learning path.
 My focus is making security workflows faster, smarter, and less repetitive -
 from reconnaissance to reporting.
 
