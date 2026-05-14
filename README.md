@@ -50,13 +50,9 @@ And a pletora of other Pentesting/Defensive related tools
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Scroll Down for my Featured Projects!
 
-🔗 **[Hacker Empire — Security Audit Suite](https://github.com/LorenzoPetrucci097/build-week-team-6-hacker-empire)**
-Full pentest toolkit: port scanner, SQLi scanner, CVE checker, packet sniffer, AI agent (Gemini), Flask web UI with SSE streaming. Paired with Cisco Packet Tracer enterprise network design.
-`Python` · `Flask` · `Cisco` · `Gemini API`
-
-> More solo projects shipping soon — follow to watch me build in public.
+> More works coming soon — follow to watch me build in public.
 
 ---
 
