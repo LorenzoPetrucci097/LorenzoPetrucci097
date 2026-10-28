@@ -44,6 +44,10 @@ that shrink the gap between alert and response.
 ![Zeek](https://img.shields.io/badge/Zeek-0097A7?style=flat-square)
 ![Wazuh](https://img.shields.io/badge/Wazuh-325C84?style=flat-square&logo=wazuh&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-6A1B9A?style=flat-square)
+![YARA](https://img.shields.io/badge/YARA-6A1B9A?style=flat-square)
+![Ghidra](https://img.shields.io/badge/Ghidra-F57C00?style=flat-square)
+![PE Studio](https://img.shields.io/badge/PE_Studio-424242?style=flat-square)
+![Any.Run](https://img.shields.io/badge/Any.Run-00897B?style=flat-square)
 
 **Red Team · Offensive Security**
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
