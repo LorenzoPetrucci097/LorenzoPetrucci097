@@ -40,7 +40,7 @@ that shrink the gap between alert and response.
 ![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-D32F2F?style=flat-square)
 ![abuse.ch](https://img.shields.io/badge/abuse.ch-C8102E?style=flat-square)
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-4A148C?style=flat-square)
-![Suricata](https://img.shields.io/badge/Suricata-D32F2F?style=flat-square)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
 ![Zeek](https://img.shields.io/badge/Zeek-0097A7?style=flat-square)
 ![Wazuh](https://img.shields.io/badge/Wazuh-325C84?style=flat-square&logo=wazuh&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-6A1B9A?style=flat-square)
@@ -71,6 +71,23 @@ that shrink the gap between alert and response.
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-005073?style=flat-square)
+![NAT Networking](https://img.shields.io/badge/NAT_Networking-455A64?style=flat-square)
+![Subnetting](https://img.shields.io/badge/Subnetting-37474F?style=flat-square)
+![Inter-VLAN Routing](https://img.shields.io/badge/Inter--VLAN_Routing-1565C0?style=flat-square)
+![ACL](https://img.shields.io/badge/ACL-D84315?style=flat-square)
+![Port Security](https://img.shields.io/badge/Port_Security-C62828?style=flat-square)
+![DHCP](https://img.shields.io/badge/DHCP-388E3C?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-1976D2?style=flat-square)
+![SSH](https://img.shields.io/badge/SSH-212121?style=flat-square&logo=openssh&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-004D40?style=flat-square)
+![DMZ Design](https://img.shields.io/badge/DMZ_Design-6A1B9A?style=flat-square)
+![Network Segmentation](https://img.shields.io/badge/Network_Segmentation-4527A0?style=flat-square)
+![Defense in Depth](https://img.shields.io/badge/Defense_in_Depth-283593?style=flat-square)
+![Firewall Rules](https://img.shields.io/badge/Firewall_Rules-B71C1C?style=flat-square)
+![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 **AI & Automation**
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -95,7 +112,7 @@ that shrink the gap between alert and response.
 ### 🧪 Hands-on Labs
 
 **🛡️ SOC Home Lab — Splunk + Active Directory + Caldera**
-Full detection-engineering lab on VMware Workstation. Ubuntu Server as Splunk SIEM, Windows Server 2025 as Domain Controller + monitored endpoint (Universal Forwarder, Sysmon), Kali as attacker running Caldera and Atomic Red Team. Domain, static IP schema. Used to practice **L1 → L2 analyst progression**: alert triage, SPL correlation searches, use-case tuning, MITRE ATT&CK mapping.
+Full detection-engineering lab on VMware Workstation. Ubuntu Server as Splunk SIEM, Windows Server 2025 as Domain Controller + monitored endpoint (Universal Forwarder, Sysmon), Kali as attacker running Caldera and Atomic Red Team on WinServer. Domain, static IP schema. Used to practice **L1 → L2 analyst progression and ticketing**: alert triage, SPL correlation and Query development, use-case tuning, MITRE ATT&CK mapping.
 
 **📡 QRadar Offense Management Lab**
 Parallel practice environment focused on offense lifecycle in IBM QRadar - rule building, offense correlation, false-positive reduction, and analyst workflow comparison vs. Splunk. Goal: SIEM-agnostic analyst reflexes.
@@ -103,18 +120,12 @@ Parallel practice environment focused on offense lifecycle in IBM QRadar - rule 
 **🕵️ Anonymised OSINT/Surfing Workstation - Parrot OS**
 Hardened Parrot OS VM dedicated to OSINT and dark-web reconnaissance. Minimized fingerprinting, isolated net, no shared, AppArmor on, `avahi-daemon` disabled. Session wrapped in custom scripts with mandatory snapshot rollback at end-of-session.
 
+**🧬 FlareVM — Malware Analysis Workstation**
+Dedicated, Built-From-Zero, Windows 10 reverse-engineering VM provisioned with the Mandiant FlareVM toolset (PE analyzers, debuggers, disassemblers, unpackers, YARA, network inspection tooling). Isolated host-only network with filtered connectivity, snapshot-first workflow for every sample. Used for **static and dynamic malware analysis**, IOC extraction, and feeding findings back into the SOC lab's detection rules - closing the loop between threat intel (MISP / MalwareBazaar / abuse.ch) and Splunk detection engineering.
+
 ---
 
-### 🚀 Featured Projects
-
-🔗 **[Security Audit Suite](https://github.com/LorenzoPetrucci097/build-week-team-6-hacker-empire)**
-Capstone project of the Epicode Master. 12-tool Python pentest toolkit (port scanner, SQLi scanner, CVE/NVD lookup, packet sniffer…) with a Flask web UI, SSE streaming, and a Gemini-powered AI agent for natural-language orchestration — paired with a Cisco Packet Tracer enterprise network design.
-`Python` · `Flask` · `Cisco` · `Gemini API`
-
-🔗 **Project Olympus**
-Personal Python suite consolidating my pentesting and OSINT workflow into one modular CLI.
-
-> More solo projects in the pipeline: `pentest-toolkit-cli`, `ctf-writeups`, `ai-log-analyzer`, `recon-automation`.
+### 🚀 Projects on my repos
 
 ---
 
