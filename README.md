@@ -115,7 +115,7 @@ that shrink the gap between alert and response.
 
 ### 🧪 Hands-on Labs
 
-**🛡️ SOC Home Lab — Splunk + Active Directory + Caldera**
+**🛡️ SOC Home Lab - Splunk + Active Directory + Caldera**
 Full detection-engineering lab on VMware Workstation. Ubuntu Server as Splunk SIEM, Windows Server 2025 as Domain Controller + monitored endpoint (Universal Forwarder, Sysmon), Kali as attacker running Caldera and Atomic Red Team on WinServer. Domain, static IP schema. Used to practice **L1 → L2 analyst progression and ticketing**: alert triage, SPL correlation and Query development, use-case tuning, MITRE ATT&CK mapping.
 
 **📡 QRadar Offense Management Lab**
@@ -124,7 +124,7 @@ Parallel practice environment focused on offense lifecycle in IBM QRadar - rule 
 **🕵️ Anonymised OSINT/Surfing Workstation - Parrot OS**
 Hardened Parrot OS VM dedicated to OSINT and dark-web reconnaissance. Minimized fingerprinting, isolated net, no shared, AppArmor on, `avahi-daemon` disabled. Session wrapped in custom scripts with mandatory snapshot rollback at end-of-session.
 
-**🧬 FlareVM — Malware Analysis Workstation**
+**🧬 FlareVM - Malware Analysis Workstation**
 Dedicated, Built-From-Zero, Windows 10 reverse-engineering VM provisioned with the Mandiant FlareVM toolset (PE analyzers, debuggers, disassemblers, unpackers, YARA, network inspection tooling). Isolated host-only network with filtered connectivity, snapshot-first workflow for every sample. Used for **static and dynamic malware analysis**, IOC extraction, and feeding findings back into the SOC lab's detection rules - closing the loop between threat intel (MISP / MalwareBazaar / abuse.ch) and Splunk detection engineering.
 
 ---
