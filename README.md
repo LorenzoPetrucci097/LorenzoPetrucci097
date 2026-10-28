@@ -6,16 +6,16 @@
 
 ### 🎯 What I do
 
-I build **defensive security capability** and **offensive-security tooling** —
+I build **defensive security capability** and **offensive-security tooling** -
 detection engineering in SIEMs, incident triage, and Python/AI automations
 that shrink the gap between alert and response.
 
 - 🎓 **Graduated** from the Epicode Master in Cybersecurity & Ethical Hacking (450+ hours)
-- 🛡️ Running a **personal SOC home lab** — Splunk SIEM + Active Directory + Sysmon + Caldera / Atomic Red Team + Kali
+- 🛡️ Running a **personal SOC home lab** - Splunk SIEM + Active Directory + Sysmon + Caldera / Atomic Red Team + Kali
 - 🧪 Hands-on practice with **Splunk** and **IBM QRadar** for offense correlation, use-case building, and L1→L2 triage workflows
 - 🤖 Deep into **AI pairing for secure coding**, local LLMs, and prompt-injection defense
 - 🕵️ Running an **anonymised OSINT workstation** (Parrot OS, hardened boot/shutdown scripts, snapshot discipline)
-- 📜 **GDPR aware** — data-subject rights, lawful bases, breach notification (Art. 33/34), DPIA fundamentals applied to log retention & telemetry design
+- 📜 **GDPR aware** - data-subject rights, lawful bases, breach notification (Art. 33/34), DPIA fundamentals applied to log retention & telemetry design
 - 💼 **Analyst L1 in the making & Splunk enjoyer**
 
 ---
