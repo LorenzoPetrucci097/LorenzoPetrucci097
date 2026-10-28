@@ -96,7 +96,7 @@ Personal Python suite consolidating my pentesting and OSINT workflow into one mo
 
 ### 🏆 Certifications
 
-- 🎓 **Epicode Master in Cybersecurity & Ethical Hacking** — 2026
+- 🎓 **Epicode Master in Cybersecurity & Ethical Hacking**
 - 📘 *(in preparation)* **Cisco Certified CyberOps Associate (200-201 CBROPS)**
 - 📘 *(in preparation)* **CompTIA Security+**
 - 📘 *(in preparation)* **Blue Team Level 1 (BTL1)**
