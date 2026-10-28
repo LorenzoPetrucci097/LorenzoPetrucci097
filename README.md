@@ -29,11 +29,21 @@ that shrink the gap between alert and response.
 
 **Blue Team · SOC · SIEM**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-000000?style=flat-square&logo=splunk&logoColor=white)
 ![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-BA0C2F?style=flat-square)
 ![Atomic Red Team](https://img.shields.io/badge/Atomic_Red_Team-E60000?style=flat-square)
 ![Caldera](https://img.shields.io/badge/Caldera-333333?style=flat-square)
+![MISP](https://img.shields.io/badge/MISP-1D4F8C?style=flat-square)
+![OpenCTI](https://img.shields.io/badge/OpenCTI-001BDA?style=flat-square)
+![MalwareBazaar](https://img.shields.io/badge/MalwareBazaar-D32F2F?style=flat-square)
+![abuse.ch](https://img.shields.io/badge/abuse.ch-C8102E?style=flat-square)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-4A148C?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-D32F2F?style=flat-square)
+![Zeek](https://img.shields.io/badge/Zeek-0097A7?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-325C84?style=flat-square&logo=wazuh&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-6A1B9A?style=flat-square)
 
 **Red Team · Offensive Security**
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -42,6 +52,20 @@ that shrink the gap between alert and response.
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-1E88E5?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-C62828?style=flat-square)
+![Maltego](https://img.shields.io/badge/Maltego-12AA6B?style=flat-square&logo=maltego&logoColor=white)
+![Gophish](https://img.shields.io/badge/Gophish-00BFA5?style=flat-square)
+![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-FF8200?style=flat-square&logo=flipper&logoColor=white)
+![Google Dorking](https://img.shields.io/badge/Google_Dorking-4285F4?style=flat-square&logo=google&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-C00000?style=flat-square&logo=shodan&logoColor=white)
+![theHarvester](https://img.shields.io/badge/theHarvester-00695C?style=flat-square)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-FF6F00?style=flat-square)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-37474F?style=flat-square)
+![SQLmap](https://img.shields.io/badge/SQLmap-FF6F00?style=flat-square)
+![Nuclei](https://img.shields.io/badge/Nuclei-7B1FA2?style=flat-square&logo=projectdiscovery&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-00BCD4?style=flat-square)
+![Nikto](https://img.shields.io/badge/Nikto-E53935?style=flat-square)
 
 **Networking · Infrastructure**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
